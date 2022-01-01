@@ -1,0 +1,16 @@
+.logoImage {
+    position: absolute;
+    width: 43px;
+    height: 43px;
+    left: 7px;
+    top: 14px;
+}
+
+.companyName {
+    position: absolute;
+    width: 92px;
+    height: 22px;
+    left: 70px;
+    top: 24px;
+}
+

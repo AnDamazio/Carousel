@@ -1,0 +1,62 @@
+.triangleTop {
+  position: absolute;
+  width: 310px;
+  height: 257px;
+  left: 0px;
+  top: -1px;
+  border-radius: 5px;
+}
+
+.triangleBottom {
+  position: absolute;
+  width: 247px;
+  height: 202px;
+  left: 405px;
+  top: 504px;
+}
+
+.carouselImage {
+  position: absolute;
+  width: 652px;
+  height: 706px;
+  left: 0px;
+  top: -1px;
+  border-radius: 5px;
+}
+
+.squareBottom {
+  position: absolute;
+  width: 248px;
+  height: 257px;
+  left: 0px;
+  top: 716px;
+}
+
+.rectangleBottom {
+  position: absolute;
+  width: 396px;
+  height: 257px;
+  left: 258px;
+  top: 716px;
+}
+
+.bubbleGroup {
+  position: absolute;
+  flex-direction: column;
+  display: flex;
+  width: 40px;
+  left: 27px;
+  top: 499px;
+}
+
+.bubble {
+  width: 8.81px;
+  height: 9px;
+  left: 27px;
+  top: 467.81px;
+  border: 1px solid #555555;
+  box-sizing: border-box;
+  transform: rotate(-90deg);
+  border-radius: 10px;
+  margin-top: 6.78px;
+}

@@ -1,18 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+import App from './App';
 import reportWebVitals from './reportWebVitals';
-import Carrossel from './components/Carrossel';
-import './App.css';
-import logo from './logo.svg';
-import buraco from './buraco.jpg';
 
-
-let images = [logo, buraco]
 
 ReactDOM.render(
   <React.StrictMode>
-     <Carrossel images={images} />
+    <App />
   </React.StrictMode>,
   document.getElementById('root')
 );
