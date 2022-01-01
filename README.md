@@ -6,6 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `CD my-app`
+
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -14,7 +16,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-<<<<<<< HEAD:README.md
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
@@ -73,4 +74,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### `using the carrousel`
 
 Inside the my-app / src folder, in the 'App.js' file, you will find an array called "images", in it, it will depend on the path to the images you want to insert in the carousel and the program will do the rest
->>>>>>> 37ac647e0c8121febbfc5d455596aa282bcfa53a:my-app/README.md
